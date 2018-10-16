@@ -31,7 +31,7 @@ Haciendo una primera vista de la web sin registrarnos, contamos con las siguient
 ![Welcome](https://raw.githubusercontent.com/gmm96/TW_ETSIIT_UGR/master/img/Screenshot_20181016_213144.png "Welcome")
 
 
-Si nos registramos con un usuario miembro no administrador, vemos como aparece un nuevo menú llamado **Investigación** en el aside. Aunque no se ha comentado anteriormente, los menús dispuestos en el aside son de tipo acordeón, al igual que los que se utilizan en la página de [PRADO2](www.prado.ugr.es). Esto quiere decir que solo se puede abrir uno a la vez. Este comportamiento se ha tomado siguiendo la directiva *mobile first*, ya que si varios de estos menús se pudiesen abrir de manera simultánea, estos ocuparían más espacio que el contenido principal en un smartphone, lo cuál carecería de sentido.
+Si nos registramos con un usuario miembro no administrador, vemos como aparece un nuevo menú llamado **Investigación** en el aside. Aunque no se ha comentado anteriormente, los menús dispuestos en el aside son de tipo acordeón, al igual que los que se utilizan en la página de [PRADO2](https://prado.ugr.es). Esto quiere decir que solo se puede abrir uno a la vez. Este comportamiento se ha tomado siguiendo la directiva *mobile first*, ya que si varios de estos menús se pudiesen abrir de manera simultánea, estos ocuparían más espacio que el contenido principal en un smartphone, lo cuál carecería de sentido.
 
 ![RegUserSections](https://raw.githubusercontent.com/gmm96/TW_ETSIIT_UGR/master/img/Screenshot_20181016_213204.png "RegUserSections")
 
