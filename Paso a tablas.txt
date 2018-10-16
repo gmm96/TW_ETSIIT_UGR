@@ -1,0 +1,19 @@
+Usuarios (CP:email, nombre, apellidos, categoría, director, 
+          clave, tlfo, url, departamento, centro, uni,
+          dirección, foto, privilegios, bloqueado);
+
+Proyecto-Investiga (CP: cod, titulo, descripcion, fecha-ini, 
+                    fecha-fin, entidades, cuantía, url, 
+                    CE: email, colaboradores-no-grupo);
+
+Colaboran (CP, CE: email, CP, CE: cód);
+
+Publicaciones-Edita (CP: DOI, título, fecha, resumen, keywords, 
+                     url, CE: email, autores-no-grupo);
+
+Contribuyen (CP, CE: email, CP, CE: DOI)
+
+Artículos (CP: DOI, revista, volumen, pág);
+Libros (CP: DOI, editorial, editor, ISBN);
+Capítulos libros (CP: DOI, título, editorial, editor, isbn, pág);
+Conferencias (CP:DOI, nombre, lugar, reseña);
